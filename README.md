@@ -21,12 +21,12 @@
   - INVOICES
 
 # **4) วิธีรันโปรเจกต์**
-   1) เปิด PostgreSQL
-   2) สร้าง Database ใหม่
-      CREATE DATABASE hospital_db;
-   3) เข้าใช้งาน Database
-      \c hospital_db;
-   4) รันไฟล์ SQL Implementation
-      นำไฟล์ clinic_database.sql ไป execute
-      หรือ คัดลอกคำสั่ง CREATE TABLE และ INSERT แล้วรันใน pgAdmin / psql
-   5) ทดลอง Query (BASIC AND JOIN QUERY)
+1) เปิด PostgreSQL
+2) สร้าง Database ใหม่
+    `CREATE DATABASE hospital_db;`
+3) เข้าใช้งาน Database
+    `\c hospital_db;`
+4) รันไฟล์ SQL Implementation
+    * นำไฟล์ `clinic_database.sql` ไป execute
+    * หรือ คัดลอกคำสั่ง `CREATE TABLE` และ `INSERT` แล้วรันใน pgAdmin / psql
+5) ทดลอง Query (BASIC AND JOIN QUERY)
