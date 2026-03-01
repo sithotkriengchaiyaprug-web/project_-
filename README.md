@@ -14,11 +14,11 @@
 และพัฒนา/ทดสอบด้วย PostgreSQL
 
 # 3)โครงสร้างข้อมูล
-  -PATIENT
-  -DOCTOR
-  -APPOINTMENTS
-  -VISITS
-  -INVOICES
+-PATIENT
+-DOCTOR
+-APPOINTMENTS
+-VISITS
+-INVOICES
 
 # 4) วิธีรันโปรเจกต์
    1) เปิด PostgreSQL
