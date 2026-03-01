@@ -30,3 +30,6 @@
     * นำไฟล์ `clinic_database.sql` ไป execute
     * หรือ คัดลอกคำสั่ง `CREATE TABLE` และ `INSERT` แล้วรันใน pgAdmin / psql
 5) ทดลอง Query (BASIC AND JOIN QUERY)
+
+# CANVA PRESENTATION:
+https://www.canva.com/design/DAHCav0DSOo/5bpbVHC9pGNtbBRl4jA9Jw/edit?utm_content=DAHCav0DSOo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
